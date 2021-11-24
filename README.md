@@ -20,3 +20,8 @@ Repositorio con las evidencias del curso de Introducción a Bases de Datos. eugf
 
 1. Foo
 2. Goo
+
+1. Descripción del problema.
+2. Describir el diseño.
+3. Plantear 5-10 preguntas que se puedan contestar.
+4. Conclusión
