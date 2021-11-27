@@ -1,27 +1,38 @@
-# ProyectoBEDU
-## Subtítulo
-### Foo
+# :rocket:  Proyecto: <Nombre del proyecto>   
+**Curso de Ciencia de Datos, BEDU**   
+<Nombre del alumno>
+  
+<Imagen o vídeo que describa el proyecto>
+  
+---
+  
+## :capital_abcd: Introducción
 
-Repositorio con las evidencias del curso de Introducción a Bases de Datos. eugfjhuieg8ug ngugung
+<Colocar una descripción del proyecto, dónde se plantee el problema, se describa el originen de este problema, los dataset de dónde se tomaron los datos, dando crédito a la plataforma corresponde y poniendo enlaces a conceptos que podrían no ser de dominio público.>
+  
+### :dart: Objetivos y Tareas
 
-[Este es un enlace hermoso](google.com)
+<Describir cada uno de los objetivos y de las tareas que realizarán/realizaron en el proyecto.>
+  
+- Objetivo 1
+- Objetivo 2
+...
+  
+---
 
-![imagen](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)
+## :ballot_box_with_check: Tarea 1
+  
+<Describir tarea por tarea las actividades que se realizaron en el proyecto.>
+  
+---
+  
+## :ballot_box_with_check: Conclusiones
+  
+<Describir los resultados a los que llegó por medio de análisis exploratorio, y aplicación de los algoritmos de ML.>
 
-| Columna 1 | Columna 2 |
-| --------- | --------- |
-| A         | B         |
-
-**Texto en negritas**
-*Texto en itálicas*
-
-- Este un elemento.
-- Este es otro.
-
-1. Foo
-2. Goo
-
-1. Descripción del problema.
-2. Describir el diseño.
-3. Plantear 5-10 preguntas que se puedan contestar.
-4. Conclusión
+---
+  
+## :ballot_box_with_check: Trabajo a futuro
+  
+<Describir tareas pendientes que pueden ayudar a mejorar los resultados.>
+  
