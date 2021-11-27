@@ -10,6 +10,8 @@
 
 <Colocar una descripción del proyecto, dónde se plantee el problema, se describa el originen de este problema, los dataset de dónde se tomaron los datos, dando crédito a la plataforma corresponde y poniendo enlaces a conceptos que podrían no ser de dominio público.>
   
+[Este es un enlace](Ejemplo01.ipynb)
+  
 ### :dart: Objetivos y Tareas
 
 <Describir cada uno de los objetivos y de las tareas que realizarán/realizaron en el proyecto.>
